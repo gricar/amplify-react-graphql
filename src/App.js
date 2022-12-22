@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          My first deploy with AWS Amplify
+          My first deploy with AWS Amplify !
         </p>
         <a
           className="App-link"
